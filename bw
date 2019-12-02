@@ -1,0 +1,35 @@
+QQ企业邮箱
+	zhuqiongting@iottepa.com
+	ZQT777yyy
+万物云
+	zhuqiongting
+	ZQT777yyy
+知识库平台
+	zhuqiongting
+	Wanwoo@123
+Debian系统
+	root密码：zqt123456
+	用户名：mark(123456)
+			alex(190624)
+			root(rootroot)
+	
+万物系统172.18.100.235
+	admin(Wanwoo@123)
+
+git代码库git.iottepa.com
+	zqt(Wanwoo@123)
+	
+测试环境平台	ssh 172.18.100.235.22
+	root（Wanwoo@#0321）
+	mysql 123456
+	
+测试用例平台 http://172.18.100.211/zentao/testcase-browse-1.html
+	zhuqiongting（Wanwoo@123）
+	
+github
+	zhuqiongting（qiongtingzhu@123）
+	
+
+
+全局替换windows 回退符	
+:%s/\r//g
